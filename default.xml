@@ -509,8 +509,8 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" remote="aosp" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
   
-  <project path="device/Micromax/A102" name="TestMT6572/android_device_Micromax_A102" revision="cm-14.1" />
-  <project path="vendor/Micromax/A102" name="TestMT6572/android_vendor_Micromax_A102" revision="cm-14.1" />
+  <project path="device/TCT/Yaris_M_GSM" name="JohnD80/android_device_TCT_Yaris_M_GSM" revision="cm-14.1" />
+  <project path="vendor/TCT/Yaris_M_GSM" name="JohnD80/android_vendor_TCT_Yaris_M_GSM" revision="cm-14.1" />
 
   <include name="snippets/cm.xml" />
 
